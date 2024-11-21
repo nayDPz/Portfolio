@@ -1,5 +1,7 @@
 # nayDPz
-A showcase of what I'm most proud of from the past 3.5 years I've spent modding ROR2. I've done mostly solo projects, but have spent the last year and a half working with the Starstorm 2 team.
+A showcase of what I'm most proud of from the past 3.5 years I've spent modding ROR2. I've done mostly solo projects, but have spent the last year and a half working with the [Starstorm 2 team](https://github.com/TeamMoonstorm/Starstorm2).
+
+For the creation of content, I use [Thunderkit](https://github.com/PassivePicasso/ThunderKit), an editor extension designed to closely replicate the standard Unity game workflow.
 
 In that time, I've also gained the experience to do the animation, sound design, and visual effects for almost everything showcased here.
 # Survivors
