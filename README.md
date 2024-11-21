@@ -1,11 +1,8 @@
 # nayDPz
-A showcase of the past 3.5 years I've spent modding ROR2. I've done mostly solo projects, but have spent the last year and a half working with the Starstorm 2 team.
+A showcase of what I'm most proud of from the past 3.5 years I've spent modding ROR2. I've done mostly solo projects, but have spent the last year and a half working with the Starstorm 2 team.
 
+In that time, I've also gained the experience to do the animation, sound design, and visual effects for almost everything showcased here.
 # Survivors
-## Daredevil
-My first project. A combination of mechanics from several different games, with a combo system and several different weapons.
-Unfortunately hasn't been updated for the DLC2 patch yet, [so this Youtube video was the best I could find](https://www.youtube.com/watch?v=cCYvAq_C6ck) (it's quite long, but the first part of the video showcases the character select screen)
-
 ## Dancer
 Solo project. The key feature is her primary, which changes its attack based on where you aim.
 
@@ -31,6 +28,8 @@ https://github.com/user-attachments/assets/0ebd07cf-acae-4cdf-b471-6b98ac016be9
 https://github.com/user-attachments/assets/decda8e2-e21f-4ab0-8aa4-76bf342a5199
 
 https://github.com/user-attachments/assets/33a8e4b9-5dc3-426b-bb4a-4b4126e69069
+
+(War Bonds is being used as a placeholder model)
 
 https://github.com/user-attachments/assets/fc4a4d02-487a-414b-a4a1-a1d6cd38895a
 
