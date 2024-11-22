@@ -46,6 +46,12 @@ Lunar Gambler. Spend lunar coins to add a huge variety of effects to your run.
 
 https://github.com/user-attachments/assets/64e80c87-0bd6-4c6e-b3ac-7c797acf8b17
 
+Storms can start at random points during the stage. They get stronger over time, and can start spawning Stormborn monsters
+
+[This video showcases transitioning between different storm "levels"](https://streamable.com/sff5dl)
+
+https://github.com/user-attachments/assets/fae584f5-3a9f-4a11-a25f-162894b130a8
+
 # Autochess
 Very early versions of an autochess mod I was working on a couple years ago. The first minute of each video showcases everything.
 
